@@ -20,7 +20,7 @@ A simple and efficient system to track, manage, and calculate family expenses us
 ## 🖥️ Demo
 
 🎥 [Demo Video](./demo.mp4)
-📄[Project Documentation](./project.pdf)
+
 
 
 ---
@@ -34,39 +34,13 @@ A simple and efficient system to track, manage, and calculate family expenses us
 
 ---
 
-## 🗂️ Project Structure
 
-```
-Project files/
-├─ README.md
-├─ demo_video.mp4
-├─ yourfile.pdf
-├─ app/                   # ServiceNow app files
-│   ├─ Tables
-│   ├─ Workflows
-│   └─ Scripts
-```
 
----
-
-## 🚀 How to Use
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/Aswitha45/Calculating-family-expenses-servicenow-project.git
-```
-
-2. Open in ServiceNow Studio.
-3. Import the tables and workflows.
-4. Start adding family expenses and track reports.
-
----
 
 ## 📞 Contact
 
 For queries or collaboration, contact **Aswitha Gadde**.
+Author
+**GADDE SAI ASWITHA**.
 
 ---
-
-> Made with ❤️ using ServiceNow
