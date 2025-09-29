@@ -21,7 +21,8 @@ A simple and efficient system to track, manage, and calculate family expenses us
 
 🎥 **Watch the Demo Below**
 
-https://drive.google.com/file/d/1ezkOQX9CW2PLSQ67obSDgXQHvHAaSHSz/view?usp=sharing
+[Demo video](https://drive.google.com/file/d/1ezkOQX9CW2PLSQ67obSDgXQHvHAaSHSz/view?usp=sharing)
+
 
 
 ---
