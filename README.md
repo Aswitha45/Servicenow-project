@@ -1,7 +1,7 @@
 # 📊 Calculating Family Expenses
 
-**Team ID:** 160572
-**Category:** ServiceNow
+**Team ID:** 160572  
+**Category:** ServiceNow  
 
 A simple and efficient system to track, manage, and calculate family expenses using **ServiceNow**. This project helps families monitor spending, plan budgets, and get insights into their expenses.
 
@@ -19,28 +19,28 @@ A simple and efficient system to track, manage, and calculate family expenses us
 
 ## 🖥️ Demo
 
-🎥 [Demo Video](./demo.mp4)
+🎥 **Watch the Demo Below**
 
+<video src="./demo.mp4" controls width="600">
+  Your browser does not support the video tag.
+</video>
+🎥 [Demo Video](./demo.mp4)
 
 
 ---
 
 ## 🛠️ Tech Stack
 
-* **Platform:** ServiceNow
-* **Frontend:** ServiceNow UI
-* **Backend:** ServiceNow Tables & Workflows
-* **Database:** ServiceNow internal database
+* **Platform:** ServiceNow  
+* **Frontend:** ServiceNow UI  
+* **Backend:** ServiceNow Tables & Workflows  
+* **Database:** ServiceNow internal database  
 
 ---
 
-
-
-
 ## 📞 Contact
 
-For queries or collaboration, contact **Aswitha Gadde**.
-Author
-**GADDE SAI ASWITHA**.
+For queries or collaboration, contact **Aswitha Gadde**.  
+Author: **GADDE SAI ASWITHA**  
 
 ---
